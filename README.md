@@ -1,4 +1,5 @@
-![kenobi](https://nerdist.com/wp-content/uploads/2018/01/giphy-3.gif)
+<p align="center"><img src="https://nerdist.com/wp-content/uploads/2018/01/giphy-3.gif"/></p>
+
 
 I'm **Jeff**, self-taught web dev, self-proclaimed meme connoisseur. I'm always looking to learn and master the next cool thing across various disciplines. I love open-source technologies of any kind, not just software. I firmly believe our collective human knowledge is paramount in propelling us into the awesome sci-fi future that my nerd heart desires. ❤️🤖
 
