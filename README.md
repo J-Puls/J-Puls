@@ -4,10 +4,10 @@ I'm **Jeff**, self-taught web dev, self-proclaimed meme connoisseur. I'm always 
 
 TL;DR - I build cool stuff for the web and enjoy a bunch of different things.
 
-### :man_technologist: Work
+## :man_technologist: Work
 ❗ **Currently seeking gainful employment!** 😓
 
-### 🌐 My Portfolio
+## 🌐 My Portfolio
 Interested in my work and want to know more about me?
 
 You're in luck, I have a website with just the info you're looking for!
@@ -18,7 +18,7 @@ What's more, I built it on my own React framework I'm currently developing!
 
 [More on that here...](https://github.com/j-puls/thorium-ui)
 
-### 📇 Get In Touch!
+## 📇 Get In Touch!
 Want to work with me?
 
 Have a question/comment about one of my projects?
@@ -29,7 +29,7 @@ jpuls793@gmail.com
 
 Just shoot me an email and I'll get back to you as quickly as I can.
 
-### 💩 Some Things I Enjoy
+## 💩 Some Things I Enjoy
 ✒️ Graphic design and digital art
 
 🎮 Video games (especially those from the late 90s!)
