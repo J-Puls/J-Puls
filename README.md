@@ -2,7 +2,7 @@
 
 I'm **Jeff**, self-taught web dev, self-proclaimed meme connoisseur. I'm always looking to learn and master the next cool thing across various disciplines. I love open-source technologies of any kind, not just software. I firmly believe our collective human knowledge is paramount in propelling us into the awesome sci-fi future that my nerd heart desires. ❤️🤖
 
-TL;DR - I build cool stuff for the web and enjoy a bunch of different things.
+***TL;DR:*** I build cool stuff for the web and enjoy a bunch of different things.
 
 ## :man_technologist: Work
 ❗ **Currently seeking gainful employment!** 😓
