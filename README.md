@@ -6,37 +6,32 @@ I'm **Jeff**, self-taught web dev, self-proclaimed meme connoisseur. I'm always 
 ***TL;DR:*** I build cool stuff for the web and enjoy a bunch of different things.
 
 ## :man_technologist: Work
-❗ **Currently seeking gainful employment!** 😓
+❗ **Currently seeking gainful employment** ❗
 
 ## 🌐 My Portfolio
-Interested in my work and want to know more about me?
-
-You're in luck, I have a website with just the info you're looking for!
-
+Interested in my work and want to know more about me?  
+You're in luck, I have a website with just the info you're looking for!  
 [Check it out!](https://jpuls.dev)
 
-What's more, I built it on my own React framework I'm currently developing!
-
+What's more, it's built on Thorium-UI, my own React framework currently under development!  
 [More on that here...](https://github.com/j-puls/thorium-ui)
 
-## 📇 Get In Touch!
-Want to work with me?
-
-Have a question/comment about one of my projects?
-
-Just want to send me a funny meme?
+## 📧 Get In Touch!
+Want to work with me?  
+Have a question/comment about one of my projects?  
+Just want to send me a funny meme?  
 
 jpuls793@gmail.com
 
 Just shoot me an email and I'll get back to you as quickly as I can.
 
 ## 💩 Some Things I Enjoy
-✒️ Graphic design and digital art
+<span> </span>✒️ Graphic design and digital art
 
-🎮 Video games (especially those from the late 90s!)
+<span> </span>🎮 Video games (especially those from the late 90s!)
 
-🚀 Astronomy and space exploration
+<span> </span>🚀 Astronomy and space exploration
 
-👽 Science fiction (and fact!)
+<span> </span>👽 Science fiction (and fact!)
 
-🐸 Memes of all shapes and sizes
+<span> </span>🐸 Memes of all shapes and sizes
