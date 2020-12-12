@@ -21,7 +21,7 @@ Want to work with me?
 Have a question/comment about one of my projects?  
 Just want to send me a funny meme?  
 
-jpuls793@gmail.com
+jeff.puls@pm.me
 
 Just shoot me an email and I'll get back to you as quickly as I can.
 
