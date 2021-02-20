@@ -1,7 +1,7 @@
 <p align="center"><img src="https://nerdist.com/wp-content/uploads/2018/01/giphy-3.gif"/></p>
 
 
-### I'm Jeff, self-taught web dev, self-proclaimed meme connoisseur.
+## Self Taught Web Dev   |   Self Proclaimed Meme Connoisseur
 
 I love open-source technologies of all kinds, not just software. I firmly believe open, collective human knowledge is paramount in propelling us into the awesome sci-fi future that my nerd heart desires. ❤️🤖
 
