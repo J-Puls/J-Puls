@@ -6,7 +6,7 @@
 I love open-source technologies of all kinds, not just software. I firmly believe open, collective human knowledge is paramount in propelling us into the awesome sci-fi future that my nerd heart desires. ❤️🤖
 
 ## :man_technologist: Work
-Software Developer @ Talogy
+Full-stack Software Engineer @ Talogy
 
 ## 🌐 My Portfolio
 Interested in my work and want to know more about me?  
@@ -19,8 +19,6 @@ Have a question/comment about one of my projects?
 Just want to send me a funny meme?  
 
 jeff.puls@pm.me
-
-Just shoot me an email and I'll get back to you as quickly as I can.
 
 ## 💩 Some Things I Enjoy
 <span> </span>✒️ Graphic design and digital art
