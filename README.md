@@ -1,15 +1,18 @@
-<p align="center"><img src="https://nerdist.com/wp-content/uploads/2018/01/giphy-3.gif"/></p>
+<p align="center">
+
+![General Kenobi](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+
+</p>
 
 
-## Self Taught Web Dev   |   Self Proclaimed Meme Connoisseur
+## Self-taught Software Engineer   |   Self Proclaimed Meme Connoisseur
 
-I love open-source technologies of all kinds, not just software. I firmly believe open, collective human knowledge is paramount in propelling us into the awesome sci-fi future that my nerd heart desires. ❤️🤖
+I'm Jeff, a full-stack software engineer with 5+ years of experience specializing in web-based technologies and frameworks. Hailing from upstate New York, I am driven by an insatiable passion for learning, which keeps me at the forefront of technological advancements. My commitment to continuous improvement ensures that my skills remain sharp and effective.
 
-## :man_technologist: Work
-Full-stack Software Engineer @ Talogy
+If you're searching for a versatile and dedicated engineer to strengthen your team, I invite you to explore my portfolio. With a wealth of knowledge and a forward-thinking approach, I am ready to tackle new challenges and create innovative solutions together. Let's connect and uncover the exciting possibilities that lie ahead!
 
-## 🌐 My Portfolio
-Interested in my work and want to know more about me?  
+## 🌐 Portfolio
+Want to learn more about me?  
 You're in luck, I have a website with just the info you're looking for!  
 [Check it out!](https://jpuls.dev)
 
@@ -21,11 +24,12 @@ Just want to send me a funny meme?
 jeff.puls@pm.me
 
 ## 💩 Some Things I Enjoy
-<span> </span>✒️ Graphic design and digital art
+
+<span> </span>🚀 Rocketry, astronomy and space exploration
 
 <span> </span>🎮 Video games (especially those from the late 90s!)
 
-<span> </span>🚀 Astronomy and space exploration
+<span> </span>🍺 Craft brews
 
 <span> </span>👽 Science fiction (and fact!)
 
