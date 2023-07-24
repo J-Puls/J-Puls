@@ -5,7 +5,7 @@
 </p>
 
 
-## Self-Taught Software Engineer   |   Self Proclaimed Meme Connoisseur
+## Self-Taught Software Engineer   |   Self-Proclaimed Meme Connoisseur
 
 I'm Jeff, a full-stack software engineer with 5+ years of experience specializing in web-based technologies and frameworks. Hailing from upstate New York, I am driven by an insatiable passion for learning, which keeps me at the forefront of technological advancements. My commitment to continuous improvement ensures that my skills remain sharp and effective.
 
